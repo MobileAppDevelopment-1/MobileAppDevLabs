@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="username_hint_txt">Usuario</string>
+    <string name="password_hint_txt">Contraseña</string>
+    <string name="btn_login_msg">Iniciar sesión</string>
+    <string name="welcome_msg">Bienvenido %1$s!</string>
+    <string name="invalid_user_msg">Usuario Inválido</string>
+</resources>
