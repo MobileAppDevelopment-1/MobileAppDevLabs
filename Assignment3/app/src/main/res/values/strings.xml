@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="error_division_por_zero_msg">Error, división por 0</string>
+</resources>
